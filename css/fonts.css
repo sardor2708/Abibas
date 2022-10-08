@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Light" ;
+    src: url(../fonts/rubik/Rubik-Light.ttf) format('truetype');
+}
+@font-face {
+    font-family: "Regular" ;
+    src: url(../fonts/rubik/Rubik-Regular.ttf) format('truetype');
+}
+@font-face {
+    font-family: "SemiBold" ;
+    src: url(../fonts/rubik/Rubik-SemiBold.ttf) format('truetype');
+}
